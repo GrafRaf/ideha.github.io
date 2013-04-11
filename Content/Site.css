@@ -151,6 +151,7 @@ footer > section > div {
 
 .project_img_title {
     font-size:0.85em;
+    display:block;
     text-decoration:none;
 }
 .h100 {
